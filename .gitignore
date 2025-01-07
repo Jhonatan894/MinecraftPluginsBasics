@@ -1,0 +1,16 @@
+# Ignorar arquivos de compilação
+*.class
+*.jar
+*.war
+
+# Ignorar pastas de IDEs (como IntelliJ, Eclipse, VSCode)
+/.idea
+/.vscode
+*.iml
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar pastas do Maven ou Gradle (se usar)
+target/
+build/

@@ -1,0 +1,6 @@
+name: event
+version: 1.0
+main: me.events.Event
+api-version: 1.21.3
+author: Jhon Araujo
+
