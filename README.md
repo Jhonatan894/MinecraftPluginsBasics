@@ -24,7 +24,7 @@
     - O jogador morre automaticamente como uma trollagem.
 
 ## Requisitos
-- Servidor Bukkit ou Spigot 1.19 ou superior.
+- Servidor Bukkit ou Spigot 1.21.3 ou superior.
 - Java 8 ou superior.
 
 ## Como instalar
